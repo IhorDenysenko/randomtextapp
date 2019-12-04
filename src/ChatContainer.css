@@ -1,0 +1,25 @@
+.chat-container {
+    height: 400px;
+}
+
+.align-center {
+    text-align: left;
+}
+
+@font-face {
+    font-family: BuffordRustic;
+    src: url('./assets/fonts/Burford Rustic/Burford Rustic Book Black.woff');
+}
+
+.header {
+    font-family: BuffordRustic;
+    color: white;
+}
+
+.font-60 {
+    font-size: 60px;
+}
+
+.font-40 {
+    font-size: 40px;
+}

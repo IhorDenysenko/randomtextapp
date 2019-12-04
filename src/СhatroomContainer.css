@@ -1,0 +1,23 @@
+.bg-white {
+    background-color: white;
+}
+
+.chatroom-container {
+    height: 400px;
+}
+
+.margin-top-25px {
+    margin-top: 20px;
+}
+
+.btn-dark {
+    background-color: darkgray;
+    color: white;
+    transition: all .5s;
+}
+
+.btn-dark:hover {
+    background-color: dimgrey;
+    color: darkgray;
+    transition: all .5s;
+}
