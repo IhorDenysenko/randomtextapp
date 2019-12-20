@@ -1,0 +1,21 @@
+{
+    "extends": "../../tsconfig.build.json",
+  
+    "compilerOptions": {
+      "target": "es5",
+      "allowJs": true,
+      "strict": true,
+      "module": "esnext",
+      "skipLibCheck": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "jsx": "react",
+      "outDir": "./dist"
+    },
+  
+    "include": [
+      "src/**/*"
+    ]
+  }

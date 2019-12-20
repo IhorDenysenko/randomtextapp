@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b9006d34.chunk.js",
+    "main.js.map": "/static/js/main.b9006d34.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98b0dd17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98b0dd17.js.map",
+    "static/css/2.8271af8e.chunk.css": "/static/css/2.8271af8e.chunk.css",
+    "static/js/2.67fcb388.chunk.js": "/static/js/2.67fcb388.chunk.js",
+    "static/js/2.67fcb388.chunk.js.map": "/static/js/2.67fcb388.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d3c6b8cdb2ae0811a29ac55dc0186278.js": "/precache-manifest.d3c6b8cdb2ae0811a29ac55dc0186278.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8271af8e.chunk.css.map": "/static/css/2.8271af8e.chunk.css.map",
+    "static/js/2.67fcb388.chunk.js.LICENSE": "/static/js/2.67fcb388.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b0dd17.js",
+    "static/css/2.8271af8e.chunk.css",
+    "static/js/2.67fcb388.chunk.js",
+    "static/js/main.b9006d34.chunk.js"
+  ]
+}

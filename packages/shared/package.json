@@ -1,0 +1,19 @@
+{
+    "name": "@randomtext/shared",
+    "version": "1.0.0",
+    "private": true,
+    "main": "dist/index",
+    "types": "dist/index",
+    "files": [
+      "dist"
+    ],
+    "scripts": {
+      "build": "npm run clean && npm run compile",
+      "clean": "IF EXIST dist ( rmdir /s/q dist) && IF EXIST tsconfig.build.tsbuildinfo (del /s tsconfig.build.tsbuildinfo)",
+      "compile": "tsc -p tsconfig.build.json",
+      "prepublishOnly": "npm run build"
+    },
+    "devDependencies": {
+      "typescript": "^3.7.3"
+    }
+  }

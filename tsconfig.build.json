@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "module": "commonjs",
+      "target": "es5",
+      "sourceMap": true,
+      "paths": {
+        "@randomtext/*": ["packages/*/src"]
+      }    
+    },
+    "exclude": [
+      "node_modules",
+      "dist"
+    ]
+  }
