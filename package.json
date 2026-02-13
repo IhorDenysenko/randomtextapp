@@ -8,6 +8,6 @@
     "start": "lerna run start --stream"
   }, 
   "devDependencies": {
-    "lerna": "^3.19.0"
+    "lerna": "^9.0.4"
   }
 }
